@@ -54,7 +54,8 @@ pip install -r requirements.txt
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://symbols.getvecta.com/stencil_97/61_tensorflow.7037ae5acc.png" width=200>](https://github.com/tensorflow/tensorflow) 
+
+[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://www.quintagroup.com/blog/blog-images/machine-learning-libraries/tensorflow.png/@@images/image.png" width=200>](https://github.com/tensorflow/tensorflow) 
 
 ## Credits
 This project wouldnt been possible without the dataset gathered by PILOT TECHNOCAST, Shapar, Rajkot. 
