@@ -41,7 +41,7 @@ The trained model (`models/model.h5`) takes an casting image as an input and pre
 * Company can divert these essential individuals to core areas or spend time fixing these defects 
 
 ## Findings
-* The model made using a Sequential Deep Learning Technique obtained a Validation Accuracy of 0.91 on 6633 images used for training.
+* The model made using a Sequential Deep Learning Technique obtained a Validation **Accuracy of 0.91** on 6633 images used for training.
 * The model accuracy can be pushed further using transfer learning techniques such as VGG16 or VGG19 or Mobilenet
 * Moreover having images in the order of 30,000+ would have helped in fine tuning the model, but would have been computationally intensive 
 
@@ -58,4 +58,4 @@ pip install -r requirements.txt
 [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://www.quintagroup.com/blog/blog-images/machine-learning-libraries/tensorflow.png/@@images/image.png" width=200>](https://github.com/tensorflow/tensorflow) 
 
 ## Credits
-This project wouldnt been possible without the dataset gathered by PILOT TECHNOCAST, Shapar, Rajkot. 
+This project would not be possible without the dataset gathered by PILOT TECHNOCAST, Shapar, Rajkot. 
