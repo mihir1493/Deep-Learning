@@ -1,8 +1,10 @@
 # Analyzing Casting Defects using Image Classification Techniques
 
 ## Description
-Using deep learning based image classification techniques to identify Manufacturing defects during Casting.
+Using deep learning based image classification techniques to identify Manufacturing defects during Casting. <br>
 Casting is a manufacturing process in which a liquid material is usually poured into a mold, which contains a hollow cavity of the desired shape, and then allowed to solidify.
+
+**Aim**: Classifying Defective Castings using Deep Learning based Image Classifier
 
 ## Types of Defects
 * Blow hole
@@ -15,7 +17,7 @@ Casting is a manufacturing process in which a liquid material is usually poured 
 
 ## Dataset
 Kaggle: Casting Product Image Data for Quality Inspection
-Link:[Dataset Here](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
+Link: [Dataset Here](https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product)
 
 ## Demo
 ![](video.gif)
@@ -29,7 +31,8 @@ Link:[Dataset Here](https://www.kaggle.com/ravirajsinh45/real-life-industrial-da
 * Run the `app.py` file and connect to the server 
 * Upload the Image, Click Predict and Volla 
    
-This is a simple image classification Flask app trained on the top of Keras API. The trained model (`models/model.h5`) takes an casting image as an input and predict if the casting is defective or Ok. 
+This is a simple image classification Flask app trained on the top of Keras API. <br>
+The trained model (`models/model.h5`) takes an casting image as an input and predict if the casting is defective or Ok.
 
 ## Technical Aspect
 * This method essentially qualifies as the most basic quality control technique called as Non Destructive Testing.
@@ -52,7 +55,7 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1024px-TensorFlowLogo.svg.png" width=200>](https://github.com/tensorflow/tensorflow) 
+[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://symbols.getvecta.com/stencil_97/61_tensorflow.7037ae5acc.png" width=200>](https://github.com/tensorflow/tensorflow) 
 
 ## Credits
 This project wouldnt been possible without the dataset gathered by PILOT TECHNOCAST, Shapar, Rajkot. 
